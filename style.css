@@ -1,0 +1,55 @@
+/* importing google fonts */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+ 
+body{
+    background: whitesmoke;
+}
+
+
+#startQuizBtn {
+    background-color: purple;
+    margin: 1% 0% 0% 43%;
+    padding: 5px 22px;
+    font-size: 20px;
+    color: white;
+}
+#quizQuestions {
+    margin: 20px;
+}
+
+#currentTime {
+    float: right;
+    margin: -20px 30px 0px 45px;
+}
+
+
+h1 {
+    text-align: center;
+    font-size: 35px;
+    margin: 80px 0px 15px
+}
+
+h2 {
+    color: purple;
+    margin: 0px 10px;
+}
+
+p {
+    text-align: center;
+}
+
+li {
+    background-color: purple;
+    margin-top: 10px;
+    padding: 5px 15px;
+    width: 80%;
+    font-size: 18px;
+    color: white;
+}
+
